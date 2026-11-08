@@ -1,11 +1,6 @@
 ### Hi, I'm Rania! 👋
 
 I'm an aspiring **Data Engineer** passionate about programming, technology, and working with data. Currently building my foundation in computer science while exploring the world of data engineering, databases, and cloud computing.
--  Studying Computer Science (Data Engineering) at Universiti Teknologi Malaysia (UTM).
--  Currently learning Java, Python, C++, and SQL.
--  Exploring Cloud Computing, especially AWS.
--  Interested in Data Engineering, Big Data, and Data Analytics.
--  Aspiring to gain international internship experience
 ### Tech Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
