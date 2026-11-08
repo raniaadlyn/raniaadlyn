@@ -2,7 +2,7 @@
 
 ### Hi, I'm Rania! 👋
 
-I'm an aspiring **Data Engineer** passionate about programming, technology, and working with data. Currently building my foundation in computer science while exploring the world of data engineering, databases, and cloud computing.
+I'm a Science Computer (Data Engineering) student at UTM. Currently building my foundation in computer science while exploring the world of data engineering, databases, and cloud computing.
 
 ### Tech Skills
 
