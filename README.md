@@ -2,8 +2,7 @@
 
 ### Hi, I'm Rania! 👋
 
-I'm a Science Computer (Data Engineering) student at UTM. Currently building my foundation in computer science while exploring the world of data engineering, databases, and cloud computing.
-
+I'm a first-year **Computer Science (Data Engineering)** student at Universiti Teknologi Malaysia (UTM), aspiring to become a **Data Engineer**. Currently building my skills in programming, databases, and cloud computing. I hope to use technology and data to contribute to the development of rural communities and improve the lives of people in underserved areas.
 ### Tech Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
