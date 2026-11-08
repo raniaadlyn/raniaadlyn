@@ -1,6 +1,9 @@
+<img align="left" width="130" height="130" src="https://raw.githubusercontent.com/raniaadlyn/raniaadlyn/main/cat-coding.png" alt="Cute coding cat">
+
 ### Hi, I'm Rania! 👋
 
 I'm an aspiring **Data Engineer** passionate about programming, technology, and working with data. Currently building my foundation in computer science while exploring the world of data engineering, databases, and cloud computing.
+
 ### Tech Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
