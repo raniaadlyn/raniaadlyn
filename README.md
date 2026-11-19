@@ -11,11 +11,10 @@ I'm a first-year **Computer Science (Data Engineering)** student at Universiti T
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ### Currently Exploring
 
--  Python Programming
+-  Python & C++ Programming
 -  SQL & Database Management
 -  Amazon Web Services (AWS)
--  Data Pipelines & ETL Processes
--  Big Data Technologies
+-  Microsoft Excel
 ### Featured Projects
 I'm currently strengthening my programming fundamentals and working towards building projects related to Data Engineering.
 
