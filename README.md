@@ -5,7 +5,6 @@
 I'm a first-year **Computer Science (Data Engineering)** student at Universiti Teknologi Malaysia (UTM), aspiring to become a **Data Engineer**. Currently building my skills in programming, databases, and cloud computing. I hope to use technology and data to contribute to the development of rural communities and improve the lives of people in underserved areas.
 ### Tech Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
