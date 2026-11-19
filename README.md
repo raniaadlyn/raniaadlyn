@@ -15,6 +15,7 @@ I'm a first-year **Computer Science (Data Engineering)** student at Universiti T
 -  SQL & Database Management
 -  Amazon Web Services (AWS)
 -  Microsoft Excel
+-  Git & Github
 ### Featured Projects
 I'm currently strengthening my programming fundamentals and working towards building projects related to Data Engineering.
 
